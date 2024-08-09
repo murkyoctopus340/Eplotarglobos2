@@ -1,1 +1,1 @@
-# Eplotarglobos2
+# ExplotarGlobos2-plantilla
